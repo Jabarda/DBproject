@@ -16,3 +16,14 @@ ER диаграмма и SQL скрипт представлены https://repos
 Приложение клиент - серверное, связь посредством сокетов. Сервер соединяется с базой, генерирует запросы и следит за корректностью. В данной
 реализации и сервер и клиент крутяться на localhost (большего не требовалось). База данных Postgresql.
 
+Окно логина
+![alt tag](https://github.com/Jabarda/DBproject/blob/master/LogInScreen.JPG)
+
+Основное окно без купленных лицензий 
+![alt tag](https://github.com/Jabarda/DBproject/blob/master/MainScreenNoLicense.JPG)
+
+Куплена лицензия 1
+![alt tag](https://github.com/Jabarda/DBproject/blob/master/MainScreen1License.JPG)
+
+Окно сервера
+![alt tag](https://github.com/Jabarda/DBproject/blob/master/ServerScreen.JPG)
